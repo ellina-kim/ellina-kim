@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**ellina-kim/ellina-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 I'm ellina ☺️
+<br />
+<br />
+<br />
+## Skills
+#### I use it often.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+<br />
+<br />
+<br />
